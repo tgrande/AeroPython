@@ -1,3 +1,7 @@
+## This is a test to make sure that GIT is working.
+__IS this thing working?__  
+*I don't know yet*  
+$a^2+b^2=c^2$
 
 ## Aerodynamics-Hydrodynamics with Python
 
